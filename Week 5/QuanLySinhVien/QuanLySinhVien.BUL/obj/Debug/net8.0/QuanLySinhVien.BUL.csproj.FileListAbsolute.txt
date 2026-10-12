@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\bin\Debug\net8.0\QuanLySinhVien.BUL.deps.json
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\bin\Debug\net8.0\QuanLySinhVien.BUL.dll
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\bin\Debug\net8.0\QuanLySinhVien.BUL.pdb
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\bin\Debug\net8.0\QuanLySinhVien.Data.dll
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\bin\Debug\net8.0\QuanLySinhVien.Data.pdb
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\obj\Debug\net8.0\QuanLySinhVien.BUL.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\obj\Debug\net8.0\QuanLySinhVien.BUL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\obj\Debug\net8.0\QuanLySinhVien.BUL.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\obj\Debug\net8.0\QuanLySinhVien.BUL.AssemblyInfo.cs
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\obj\Debug\net8.0\QuanLySinhVien.BUL.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\obj\Debug\net8.0\QuanLySi.D9306A61.Up2Date
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\obj\Debug\net8.0\QuanLySinhVien.BUL.dll
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\obj\Debug\net8.0\refint\QuanLySinhVien.BUL.dll
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\obj\Debug\net8.0\QuanLySinhVien.BUL.pdb
+C:\Users\admin\source\repos\QuanLySinhVien\QuanLySinhVien.BUL\obj\Debug\net8.0\ref\QuanLySinhVien.BUL.dll
