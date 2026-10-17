@@ -1,0 +1,15 @@
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/bin/Debug/net8.0/QuanLySinhVien.Business.deps.json
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/bin/Debug/net8.0/QuanLySinhVien.Business.dll
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/bin/Debug/net8.0/QuanLySinhVien.Business.pdb
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/bin/Debug/net8.0/QuanLySinhVien.Data.dll
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/bin/Debug/net8.0/QuanLySinhVien.Data.pdb
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/obj/Debug/net8.0/QuanLySinhVien.Business.csproj.AssemblyReference.cache
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/obj/Debug/net8.0/QuanLySinhVien.Business.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/obj/Debug/net8.0/QuanLySinhVien.Business.AssemblyInfoInputs.cache
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/obj/Debug/net8.0/QuanLySinhVien.Business.AssemblyInfo.cs
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/obj/Debug/net8.0/QuanLySinhVien.Business.csproj.CoreCompileInputs.cache
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/obj/Debug/net8.0/QuanLySi.79AE6730.Up2Date
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/obj/Debug/net8.0/QuanLySinhVien.Business.dll
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/obj/Debug/net8.0/refint/QuanLySinhVien.Business.dll
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/obj/Debug/net8.0/QuanLySinhVien.Business.pdb
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Business/obj/Debug/net8.0/ref/QuanLySinhVien.Business.dll
