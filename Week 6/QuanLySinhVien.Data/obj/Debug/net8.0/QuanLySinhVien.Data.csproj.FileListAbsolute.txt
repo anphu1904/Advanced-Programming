@@ -1,0 +1,12 @@
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Data/bin/Debug/net8.0/QuanLySinhVien.Data.deps.json
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Data/bin/Debug/net8.0/QuanLySinhVien.Data.dll
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Data/bin/Debug/net8.0/QuanLySinhVien.Data.pdb
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Data/obj/Debug/net8.0/QuanLySinhVien.Data.csproj.AssemblyReference.cache
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Data/obj/Debug/net8.0/QuanLySinhVien.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Data/obj/Debug/net8.0/QuanLySinhVien.Data.AssemblyInfoInputs.cache
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Data/obj/Debug/net8.0/QuanLySinhVien.Data.AssemblyInfo.cs
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Data/obj/Debug/net8.0/QuanLySinhVien.Data.csproj.CoreCompileInputs.cache
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Data/obj/Debug/net8.0/QuanLySinhVien.Data.dll
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Data/obj/Debug/net8.0/refint/QuanLySinhVien.Data.dll
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Data/obj/Debug/net8.0/QuanLySinhVien.Data.pdb
+/home/user/workspace/QuanLySinhVien/QuanLySinhVien.Data/obj/Debug/net8.0/ref/QuanLySinhVien.Data.dll
